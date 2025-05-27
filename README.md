@@ -20,11 +20,11 @@ A sleek, performance-optimized, and interactive personal portfolio built using *
 - **Three.js** – 3D animations and transitions  
 - **Locomotive Scroll** – Smooth scrolling and scroll-based effects
 
+
 ## 📸 Preview
 
-![Portfolio Screenshot]
-## 📸 Preview
-(assets/Haroon-Khokhar-—-Visual-Designer-05-27-2025_06_08_PM.png)
+![Website Screenshot](assets/screenshot.png)
+
 
 
 
