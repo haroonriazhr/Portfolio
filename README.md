@@ -23,6 +23,9 @@ A sleek, performance-optimized, and interactive personal portfolio built using *
 ## 📸 Preview
 
 ![Portfolio Screenshot]
+## 📸 Preview
+(assets/Haroon-Khokhar-—-Visual-Designer-05-27-2025_06_08_PM.png.png)
+
 
 
 ## 🔧 Installation
