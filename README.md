@@ -26,6 +26,17 @@ A sleek, performance-optimized, and interactive personal portfolio built using *
 ![Website Screenshot](assets/screenshot.png)
 
 
+📬 Contact
+Have feedback or want to collaborate?
+
+📧 Email: haroonriaz6565@gmail.com
+🌐 Portfolio: https://haroonkhokhar-me.netlify.app/
+
+⭐ Star this repo if you found it useful!
+
+Let me know if you'd like it tailored with your name, portfolio URL, or GitHub repo link.
+
+
 
 
 ## 🔧 Installation
@@ -35,6 +46,7 @@ A sleek, performance-optimized, and interactive personal portfolio built using *
 git clone https://github.com/yourusername/animated-portfolio.git
 
 # Navigate into the folder
-cd animated-portfolio
+cd portfolio
 
 # Open index.html in browser
+
